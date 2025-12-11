@@ -1,6 +1,6 @@
 # 🎨 Jessica的AI作品集
 
-一个现代化、酷炫的个人 AI 作品集网站，展示 AI 视频创作和 AI 应用开发作品。
+一个现代化、酷炫的个人 AI 作品集网站，展示 AI 视频创作和 AI 应用开发作品。https://jessica-ai-portfolio.vercel.app
 
 ## ✨ 特色功能
 
